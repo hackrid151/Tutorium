@@ -1,0 +1,2 @@
+praktikum/aufgabenblatt5/TestDummyKlasse.java
+ praktikum.aufgabenblatt5.TestDummyKlasse

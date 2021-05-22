@@ -1,0 +1,14 @@
+uebungen/penandpaper/Wuerfel.java
+ uebungen.penandpaper.Wuerfel
+uebungen/penandpaper/KriegerIn.java
+ uebungen.penandpaper.KriegerIn
+uebungen/uebung00/Uebung.java
+ uebungen.uebung00.Uebung
+praktikum/aufgabenblatt5/DummyKlasse.java
+ praktikum.aufgabenblatt5.DummyKlasse
+uebungen/uebung00/Rasenmaeher.java
+ uebungen.uebung00.Rasenmaeher
+uebungen/uebung00/Zeichenkette.java
+ uebungen.uebung00.Zeichenkette
+uebungen/penandpaper/Anwendung.java
+ uebungen.penandpaper.Anwendung
